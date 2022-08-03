@@ -288,7 +288,7 @@ var mySwiper = new Swiper('.swiper-container',{
   var j = document.getElementById("jj");
   var k = document.getElementById("kk");
   var y = document.getElementById("y");
-  if (text1 == "Youme" || text1 == "Yume" || text1 == "YOUME" || text1 == "YUME" || text1 == "youme" || text1 == "yume || text1="losu punda" ) {
+  if (text1 == "Youme" || text1 == "Yume" || text1 == "YOUME" || text1 == "YUME" || text1 == "youme" || text1 == "yume" ) {
     x.style.display = "block";
     y.style.display = "none";
   a.style.animationPlayState ="running";
