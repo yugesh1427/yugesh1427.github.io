@@ -92,7 +92,7 @@ animate();
 window.onload= run();
 function run() {
 with (document.agecalc) {
-dd = day.Value="20";
+dd = day.Value="19";
 mm = month.value="8";
 yy = year.value="1999";
 if (yy.length != 4 || isNaN(yy)) {
